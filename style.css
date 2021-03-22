@@ -10,3 +10,20 @@
     margin: 0 auto;
     text-align: center;
 }
+
+.plan {
+    display: inline;
+    max-width: 25%
+}
+
+.plans-wrap {
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.plans-section {
+    width: 100%;
+}
